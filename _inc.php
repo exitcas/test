@@ -41,7 +41,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #036c96;
-	background-image: url("<?php $imgs = glob("imgs/*"); echo $imgs[rand(0, count($imgs)-1)]; ?>");
+	background-image: url("imgs/carpincho.jpg");
 	color: white;
 	margin: 10px 22%;
 	font-family: sans-serif;
