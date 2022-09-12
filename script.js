@@ -3,7 +3,7 @@ var last=num;
 /*var x=setInterval(function(){[lo de abajo]}, 1000);*/
 function bkg(source, code) {
 	document.getElementById("link").href = source;
-	document.getElementsByTagName("body")[0].style = "background-image:url('imgs/" +  code + "');";
+	document.getElementsByTagName("body")[0].style = "background-image:url('/imgs/" +  code + "');";
 }
 function setBkg() {
 	num=Math.floor(Math.random()*2);
