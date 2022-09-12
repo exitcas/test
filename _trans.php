@@ -1,5 +1,6 @@
 <?php $trans = [
 "es" => [
+	"404" => "404",
 	"in_es" => "",
 	"in_en" => " (en ingl&eacute;s)",
 	"nav_home" => "Home",
@@ -19,6 +20,7 @@
 	"bkg_other" => "Otro fondo"
 ],
 "en" => [
+	"404" => "404",
 	"in_es" => " (in spanish)",
 	"in_en" => "",
 	"nav_home" => "Home",
