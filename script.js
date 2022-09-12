@@ -26,4 +26,4 @@ function setBkg() {
 	}
 }
 setBkg();
-document.getElementById("sBtxt").innerHTML="Otro fondo";
+document.getElementById("sBtxt").innerHTML="&#x21BB;";
