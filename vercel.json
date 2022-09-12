@@ -1,0 +1,9 @@
+{
+  "builds": [
+    { "src": "*.php", "use": "vercel-php@canary" },
+    { "src": "*.png", "use": "@vercel/static" },
+    { "src": "*.jpg", "use": "@vercel/static" },
+    { "src": "*.js", "use": "@vercel/static" },
+    { "src": "*.css", "use": "@vercel/static" }
+  ]
+}
