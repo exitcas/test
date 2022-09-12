@@ -15,7 +15,8 @@
 	"tumblr_note" => "(ni idea de porque tengo este)",
 	"coming_soon_more" => "Y pr&oacute;mamente... <b>&iexcl;&iexcl;&iexcl;&iexcl;&iexcl;m&Aacute;s!!!!!</b>",
 	"sign_book" => "Libro de visitantes",
-	"bkg_src" => "Im&aacute;gen de fondo ;)"
+	"bkg_src" => "Im&aacute;gen de fondo ;)",
+	"bkg_other" => "Otro fondo"
 ],
 "en" => [
 	"in_es" => " (in spanish)",
@@ -33,5 +34,6 @@
 	"tumblr_note" => "(no idea why I have this one)",
 	"coming_soon_more" => "And coming soon... <b>mOrE!!!!!</b>",
 	"sign_book" => "Sign book",
-	"bkg_src" => "Background image ;)"
+	"bkg_src" => "Background image ;)",
+	"bkg_other" => "Other bkg"
 ]];
