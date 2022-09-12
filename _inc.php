@@ -29,7 +29,7 @@ $trans = $trans[$lang];
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="author" content="Luqaska" />
 <meta name="ocs-site-verification" content="1707d4d86f0dfd1fe55b0c30345fcda5" />
-<link rel="icon" href="https://atico.0rg.us/sarpado.png" />
+<link rel="icon" href="/sarpado.png" />
 <link type="application/atom+xml" rel="alternate" href="https://blog.atico.ga/feed/" title="blog.ATICO.ga" />
 <title><?= $trans["nav_" . $p]; ?> | ATICO.ga</title>
 <style>
