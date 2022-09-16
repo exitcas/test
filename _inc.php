@@ -8,7 +8,6 @@
 
 /* Language */
 include "_trans.php";
-session_start();
 if (isset($_GET["lang"])) {
 	if (isset($trans[$_GET["lang"]])) {
 		setcookie("lang", $_GET["lang"], time() + (10 * 365 * 24 * 60 * 60), "/");
