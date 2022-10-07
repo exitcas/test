@@ -1,4 +1,7 @@
-<?php $trans = [
+<?php /* Redirect if accessed directly */
+if (!isset($p)) { header("Location: /"); }
+
+$trans = [
 "es" => [
 	"in_es" => "",
 	"in_en" => " (en ingl&eacute;s)",
