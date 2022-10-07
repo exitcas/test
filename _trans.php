@@ -39,6 +39,6 @@ $trans = [
 	"tumblr_note" => "(no idea why I have this one)",
 	"coming_soon_more" => "And coming soon... <b>mOrE!!!!!</b>",
 	"sign_book" => "Sign book",
-	"bkg_src" => "Background image ;)",
+	"bkg_src" => "Background image ;-)",
 	"bkg_other" => "Other bkg"
 ]];
