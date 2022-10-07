@@ -1,3 +1,5 @@
+<?php /* Redirect if accessed directly */
+if (!isset($p)) { header("Location: /"); } ?>
 <p><a href="https://pixabay.com/photos/capibara-rodent-pig-water-cabiai-2528359/" id="link" style="font-size:small"><?= $trans["bkg_src"]; ?></a></p>
 </main>
 <footer>
