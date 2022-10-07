@@ -6,6 +6,9 @@
 	["tilde", "https://tilde.team/~lucas/"]
 ];
 
+/* Redirect if accessed directly */
+if (!isset($p)) { header("Location: /"); }
+
 /* Language */
 include "_trans.php";
 if (isset($_GET["lang"])) {
