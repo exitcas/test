@@ -9,6 +9,8 @@
 	<li><a target="_blank" href="https://is.nota.live/@lucas" rel="me">Microblog (<?= $trans["secondary"]; ?>)<?= $trans["in_en"]; ?></a></li>
 	<li><a target="_blank" href="https://koyu.space/@exitcas" rel="me">Koyu.Space<?= $trans["in_en"]; ?></a></li>
 	<li><a target="_blank" href="https://www.plurk.com/atico">Plurk<?= $trans["in_en"]; ?></a></li>
-	<li><a target="_blank" href="https://tumblr.atico.ga">Tumblr <?= $trans["tumblr_note"] . $trans["in_en"]; ?></a></li>
+	<li><a target="_blank" href="https://c4s.tumblr.com">Tumblr <?= $trans["in_en"]; ?></a></li>
 </ul>
+<h2><?= $trans["contact"]; ?></h2>
+<p><?= $trans["email"] ?>: <a href="mailto:lucas@atico.ga">lucas@atico.ga</a>.</p>
 <?php include("_last.php");
