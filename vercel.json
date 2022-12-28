@@ -11,6 +11,7 @@
     { "src": "*.css", "use": "@vercel/static" }
   ],
   "rewrites": [
-    { "source": "/(.*)", "destination": "/404.php" }
+    { "source": "/(.*)", "destination": "/404.php" },
+    { "source": "/.well-known/webfinger", "destination": "/webring.php" }
   ]
 }
